@@ -1,0 +1,1 @@
+Run 'npx create-react-app client' inside the root folder to generate the React app first.
