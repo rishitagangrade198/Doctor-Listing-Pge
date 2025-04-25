@@ -1,0 +1,1 @@
+// Paste your React component code here after create-react-app
